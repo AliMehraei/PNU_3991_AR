@@ -4,7 +4,7 @@
 ---
 - [حساب گیت هاب](https://github.com/alimehraei)
 
-- [رزومه](https://alimehraei.github.io/Resume/)
+- [رزومه](https://alimehraei.github.io/)
 
 - [SOP](https://alimehraei.github.io/SOP/)
 
