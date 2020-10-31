@@ -24,6 +24,7 @@
 <table style="width:100%">
  <thead>
   <tr>
+    <td>18-20</td>
     <td>16-18</td>
     <td>14-16</td>
     <td>12-14</td>
@@ -39,6 +40,7 @@
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>شنبه</td>
   </tr>
    <tr>
@@ -47,9 +49,11 @@
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>یک شنبه</td>
   </tr>
    <tr>
+     <td></td>
      <td></td>
      <td></td>
      <td></td>
@@ -63,6 +67,7 @@
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
     <td>سه شنبه</td>
   </tr>
    <tr>
@@ -70,10 +75,12 @@
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
      <td></td>
     <td>چهارشنبه</td>
   </tr>
    <tr>
+    <td></td>
     <td></td>
      <td></td>
      <td><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></td>
