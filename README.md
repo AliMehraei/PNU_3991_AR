@@ -8,6 +8,10 @@
 
 - [SOP](https://alimehraei.github.io/SOP/)
 
+- [SOLO LEARN Certificate](https://alimehraei.github.io/SOLO/)
+
+- [PATCHWORK](https://alimehraei.github.io/JLORD/)
+
 ------------------
 ## Winter Semester Courses 1399/2020
 
