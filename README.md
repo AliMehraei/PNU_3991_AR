@@ -1,5 +1,7 @@
 # PNU_3991_AR
 ---------
+<div dir="rtl">
+
 ### علی مهرائی
 ---
 - [حساب گیت هاب](https://github.com/alimehraei)
@@ -94,3 +96,4 @@
   </tr>
   </tbody>
 </table>
+</div>
