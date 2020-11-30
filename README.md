@@ -22,9 +22,9 @@
 
 ## دروس ارشد
 
-[1115280_01	معماری نرم افزار	3](https://github.com/alimehraei/PNU_3991_AR/tree/main/SoftwareArchitecture)
+[1115280_01	معماری نرم افزار](https://github.com/alimehraei/PNU_3991_AR/tree/main/SoftwareArchitecture)
 <br>
-[1115282_01	متدولوژی ایجاد نرم افزار	3](https://github.com/alimehraei/PNU_3991_AR/tree/main/SoftwareDevelopmentMetdodologies)
+[1115282_01	متدولوژی ایجاد نرم افزار](https://github.com/alimehraei/PNU_3991_AR/tree/main/SoftwareDevelopmentMetdodologies)
 <br>
 
 --------------
