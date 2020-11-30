@@ -27,7 +27,7 @@
 --------------
 ## روز و ساعت ارائه دروس
 
-<table style="width:100%">
+<table dir="ltr" style="width:100%">
  <thead>
   <tr>
     <td>18-20</td>
