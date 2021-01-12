@@ -14,8 +14,11 @@
 
 - [PATCHWORK](https://alimehraei.github.io/JLORD/)
 
-- [ProjectManagement](https://github.com/AliMehraei/ProjectManagement)
+- [Teamwork project repository](https://github.com/AliRazavi-edu/PRJ_TeamWorking)
 
+- [Teamwork project website](http://teamjobs.ir)
+
+- [Prototype designing pattern](https://codepen.io/alimehraei/project/editor/DaVrKp)
 
 ------------------
 ## Winter Semester Courses 1399/2020
