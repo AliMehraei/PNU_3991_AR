@@ -1,21 +1,34 @@
-let FamilyCar = function() {
-    this.numWheels    = 4;
-    this.manufacturer = 'Tesla';
-    this.make         = 'Model S';
+function CustomerPrototype(proto) {
+    this.proto = proto;
+
+    this.clone = function () {
+        var customer = new Customer();
+
+        customer.first = proto.first;
+        customer.last = proto.last;
+        customer.status = proto.status;
+
+        return customer;
+    };
 }
 
-FamilyCar.prototype = function() {
+function Customer(first, last, status) {
 
-    let go = function() {
-        // حرکت چرخهای خودرو - حرکت خودرو
+    this.first = first;
+    this.last = last;
+    this.status = status;
+
+    this.say = function () {
+        alert("name: " + this.first + " " + this.last +
+            ", status: " + this.status);
     };
+}
 
-    let stop = function() {
-        // ترمز گرفتن - توقف
-    };
+function run() {
 
-    return {
-        pressBrakePedal: stop,
-        pressGasPedal: go
-    }
-}();
+    var proto = new Customer("n/a", "n/a", "pending");
+    var prototype = new CustomerPrototype(proto);
+
+    var customer = prototype.clone();
+    customer.say();
+}
