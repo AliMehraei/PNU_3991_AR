@@ -25,7 +25,7 @@
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/AliMehraei/PNU_3991_AR/blob/master/final/AM_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/AliMehraei/PNU_3991_AR/blob/master/final/AM_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/AliMehraei/PNU_3991_AR/blob/master/final/AM_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس ارشد
 - [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/AliMehraei/PNU_3991_AR/blob/master/final/AM_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
