@@ -24,12 +24,12 @@
 > ارزیابی ها
 
 ##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](https://github.com/alimehraei/PNU_3991_AR/final/AM_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/alimehraei/PNU_3991_AR/final/AM_GeneralSection_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/alimehraei/PNU_3991_AR/blob/main/final/AM_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/alimehraei/PNU_3991_AR/blob/main/final/AM_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس ارشد
-- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/alimehraei/PNU_3991_AR/final/AM_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/alimehraei/PNU_3991_AR/final/AM_SoftwareArchitecture_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/alimehraei/PNU_3991_AR/blob/main/final/AM_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/alimehraei/PNU_3991_AR/blob/main/final/AM_SoftwareArchitecture_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی درس_سمینار]()
 
 ------------------
